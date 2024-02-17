@@ -169,7 +169,7 @@ footer {
 }
 
 .btn {
-    top:0;
+    top:10px;
     position: fixed;
     color:antiquewhite;
 }
