@@ -101,12 +101,10 @@ footer {
     width: 100px;
 }
 
-/* .btn {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-} */
+.btn {
+    top:0;
+    position: fixed;
+}
 
 .content {
     border-radius: 20px;
