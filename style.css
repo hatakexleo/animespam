@@ -77,6 +77,7 @@ footer {
 
 #next,
 #prev {
+    color:antiquewhite;
     box-shadow: #ffd67d;
     z-index: 9999;
     position: absolute;
@@ -84,7 +85,7 @@ footer {
     color: #000000;
     background-color: transparent;
     border: none;
-    font-size: xxx-large;
+    font-size: 36px;
     font-weight: bold;
 }
 
