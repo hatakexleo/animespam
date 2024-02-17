@@ -103,7 +103,6 @@ footer {
 
 .btn {
     top:0;
-    z-index: 999;
     position: fixed;
     color:antiquewhite;
 }
