@@ -148,7 +148,7 @@ footer {
     box-shadow: #ffd67d;
     z-index: 9999;
     position: absolute;
-    top: 55%;
+    top:0;
     background-color: transparent;
     border: none;
     font-size: 55px;
@@ -169,7 +169,7 @@ footer {
 }
 
 .btn {
-    top:10px;
-    position: fixed;
+    top:0;
+    /* position: fixed; */
     color:antiquewhite;
 }
